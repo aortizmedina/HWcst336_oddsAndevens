@@ -1,0 +1,27 @@
+body{
+   background-image: url(https://s3.amazonaws.com/replaygame/img/default/rss/Other_alley.jpg);
+    color:blue;
+   /* background: darkred;*/
+}
+#reel
+{
+    right:300px;
+}
+    
+img 
+{
+    border-radius:30px;
+}
+ #textS
+ {
+    text-align: center;
+    color: blue;
+    font-size: 10pt;
+ }
+ header{
+     text-align: center;
+     font-size: 26pt;
+     color:red;
+     text-shadow: black;
+     
+ }

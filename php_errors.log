@@ -1,0 +1,353 @@
+[23-Sep-2017 21:29:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/hw2/index.php on line 12
+[24-Sep-2017 17:19:06 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/hw2/index.php on line 37 and defined in /home/ubuntu/workspace/hw2/index.php on line 13
+[24-Sep-2017 17:19:06 UTC] PHP Stack trace:
+[24-Sep-2017 17:19:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:19:06 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/hw2/index.php:37
+[24-Sep-2017 17:19:06 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/hw2/index.php on line 37 and defined in /home/ubuntu/workspace/hw2/index.php on line 13
+[24-Sep-2017 17:19:06 UTC] PHP Stack trace:
+[24-Sep-2017 17:19:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:19:06 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/hw2/index.php:37
+[24-Sep-2017 17:19:06 UTC] PHP Warning:  Missing argument 2 for displaySymbol(), called in /home/ubuntu/workspace/hw2/index.php on line 37 and defined in /home/ubuntu/workspace/hw2/index.php on line 13
+[24-Sep-2017 17:19:06 UTC] PHP Stack trace:
+[24-Sep-2017 17:19:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:19:06 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/hw2/index.php:37
+[24-Sep-2017 17:35:26 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 63
+[24-Sep-2017 17:35:26 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:35:29 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 63
+[24-Sep-2017 17:35:29 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:35:30 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 63
+[24-Sep-2017 17:35:30 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:35:31 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 63
+[24-Sep-2017 17:35:31 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:35:31 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 63
+[24-Sep-2017 17:35:31 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:35:32 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 63
+[24-Sep-2017 17:35:32 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:35:58 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:35:58 UTC] PHP Stack trace:
+[24-Sep-2017 17:35:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:00 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:00 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:01 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:01 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:02 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:02 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:03 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:03 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:14 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:14 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:15 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:15 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:36:15 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:36:15 UTC] PHP Stack trace:
+[24-Sep-2017 17:36:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:50:01 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:50:01 UTC] PHP Stack trace:
+[24-Sep-2017 17:50:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:50:42 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:50:42 UTC] PHP Stack trace:
+[24-Sep-2017 17:50:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:50:44 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:50:44 UTC] PHP Stack trace:
+[24-Sep-2017 17:50:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:08 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:08 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:11 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:11 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:13 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:13 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:14 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:14 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:15 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:15 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:36 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:36 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:37 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:37 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:38 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:38 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:51:38 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:51:38 UTC] PHP Stack trace:
+[24-Sep-2017 17:51:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:52:15 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:52:15 UTC] PHP Stack trace:
+[24-Sep-2017 17:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:52:17 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:52:17 UTC] PHP Stack trace:
+[24-Sep-2017 17:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:52:17 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:52:17 UTC] PHP Stack trace:
+[24-Sep-2017 17:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 17:52:33 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/index.php on line 69
+[24-Sep-2017 17:52:33 UTC] PHP Stack trace:
+[24-Sep-2017 17:52:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/index.php:0
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:30 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:33 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:33 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:33 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:34 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:12:34 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:12:34 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:12:58 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/indexMine.php on line 69
+[24-Sep-2017 18:12:58 UTC] PHP Stack trace:
+[24-Sep-2017 18:12:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:13:00 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/hw2/indexMine.php on line 69
+[24-Sep-2017 18:13:00 UTC] PHP Stack trace:
+[24-Sep-2017 18:13:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 18:14:30 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 69 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 34
+[24-Sep-2017 18:14:30 UTC] PHP Stack trace:
+[24-Sep-2017 18:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 18:14:30 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:69
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 2 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 3 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 19:03:09 UTC] PHP Warning:  Missing argument 4 for displayWinner(), called in /home/ubuntu/workspace/hw2/indexMine.php on line 85 and defined in /home/ubuntu/workspace/hw2/indexMine.php on line 44
+[24-Sep-2017 19:03:09 UTC] PHP Stack trace:
+[24-Sep-2017 19:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 19:03:09 UTC] PHP   2. displayWinner() /home/ubuntu/workspace/hw2/indexMine.php:85
+[24-Sep-2017 20:27:17 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/hw2/indexMine.php on line 120
+[24-Sep-2017 20:27:17 UTC] PHP Stack trace:
+[24-Sep-2017 20:27:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:27:18 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/hw2/indexMine.php on line 120
+[24-Sep-2017 20:27:18 UTC] PHP Stack trace:
+[24-Sep-2017 20:27:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:38:37 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 129
+[24-Sep-2017 20:38:37 UTC] PHP Stack trace:
+[24-Sep-2017 20:38:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:38:37 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:179
+[24-Sep-2017 20:39:49 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 129
+[24-Sep-2017 20:39:49 UTC] PHP Stack trace:
+[24-Sep-2017 20:39:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:39:49 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:179
+[24-Sep-2017 20:40:31 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 129
+[24-Sep-2017 20:40:31 UTC] PHP Stack trace:
+[24-Sep-2017 20:40:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:40:31 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:179
+[24-Sep-2017 20:40:32 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 129
+[24-Sep-2017 20:40:32 UTC] PHP Stack trace:
+[24-Sep-2017 20:40:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:40:32 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:179
+[24-Sep-2017 20:40:33 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 129
+[24-Sep-2017 20:40:33 UTC] PHP Stack trace:
+[24-Sep-2017 20:40:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:40:33 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:179
+[24-Sep-2017 20:40:35 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 129
+[24-Sep-2017 20:40:35 UTC] PHP Stack trace:
+[24-Sep-2017 20:40:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:40:35 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:179
+[24-Sep-2017 20:44:46 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 130
+[24-Sep-2017 20:44:46 UTC] PHP Stack trace:
+[24-Sep-2017 20:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:44:46 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:180
+[24-Sep-2017 20:44:49 UTC] PHP Fatal error:  Call to undefined function calculateHandValue() in /home/ubuntu/workspace/hw2/indexMine.php on line 130
+[24-Sep-2017 20:44:49 UTC] PHP Stack trace:
+[24-Sep-2017 20:44:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 20:44:49 UTC] PHP   2. winner() /home/ubuntu/workspace/hw2/indexMine.php:180
+[24-Sep-2017 20:48:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw2/indexMine.php on line 191
+[24-Sep-2017 20:49:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw2/indexMine.php on line 191
+[24-Sep-2017 20:49:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw2/indexMine.php on line 191
+[24-Sep-2017 20:50:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw2/indexMine.php on line 191
+[24-Sep-2017 20:58:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw2/indexMine.php on line 191
+[24-Sep-2017 21:23:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/hw2/indexMine.php on line 69
+[24-Sep-2017 21:23:55 UTC] PHP Stack trace:
+[24-Sep-2017 21:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[24-Sep-2017 21:23:55 UTC] PHP   2. generateHand() /home/ubuntu/workspace/hw2/indexMine.php:162
+[24-Sep-2017 21:23:55 UTC] PHP   3. mapNumberToCard() /home/ubuntu/workspace/hw2/indexMine.php:86
+[25-Sep-2017 04:39:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw2/indexMine.php on line 197
+[25-Sep-2017 04:52:38 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, null given in /home/ubuntu/workspace/hw2/indexMine.php on line 79
+[25-Sep-2017 04:52:38 UTC] PHP Stack trace:
+[25-Sep-2017 04:52:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[25-Sep-2017 04:52:38 UTC] PHP   2. play() /home/ubuntu/workspace/hw2/indexMine.php:123
+[25-Sep-2017 04:52:38 UTC] PHP   3. generateHand() /home/ubuntu/workspace/hw2/indexMine.php:99
+[25-Sep-2017 04:52:38 UTC] PHP   4. array_pop() /home/ubuntu/workspace/hw2/indexMine.php:79
+[25-Sep-2017 04:52:38 UTC] PHP Fatal error:  Call to undefined function mapNumberToCard() in /home/ubuntu/workspace/hw2/indexMine.php on line 80
+[25-Sep-2017 04:52:38 UTC] PHP Stack trace:
+[25-Sep-2017 04:52:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[25-Sep-2017 04:52:38 UTC] PHP   2. play() /home/ubuntu/workspace/hw2/indexMine.php:123
+[25-Sep-2017 04:52:38 UTC] PHP   3. generateHand() /home/ubuntu/workspace/hw2/indexMine.php:99
+[25-Sep-2017 04:53:34 UTC] PHP Fatal error:  Call to undefined function mapNumberToCard() in /home/ubuntu/workspace/hw2/indexMine.php on line 81
+[25-Sep-2017 04:53:34 UTC] PHP Stack trace:
+[25-Sep-2017 04:53:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw2/indexMine.php:0
+[25-Sep-2017 04:53:34 UTC] PHP   2. generateHand() /home/ubuntu/workspace/hw2/indexMine.php:101
